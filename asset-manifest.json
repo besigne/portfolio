@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.d830bfb8.css",
-    "main.js": "/portfolio/static/js/main.d9f1807c.js",
-    "index.html": "/portfolio/index.html",
-    "main.d830bfb8.css.map": "/portfolio/static/css/main.d830bfb8.css.map",
-    "main.d9f1807c.js.map": "/portfolio/static/js/main.d9f1807c.js.map"
+    "main.css": "/matheus.io/static/css/main.d830bfb8.css",
+    "main.js": "/matheus.io/static/js/main.cdd1204c.js",
+    "static/media/perfil.JPG": "/matheus.io/static/media/perfil.8b57efa863b693924002.JPG",
+    "index.html": "/matheus.io/index.html",
+    "main.d830bfb8.css.map": "/matheus.io/static/css/main.d830bfb8.css.map",
+    "main.cdd1204c.js.map": "/matheus.io/static/js/main.cdd1204c.js.map"
   },
   "entrypoints": [
     "static/css/main.d830bfb8.css",
-    "static/js/main.d9f1807c.js"
+    "static/js/main.cdd1204c.js"
   ]
 }
