@@ -3,7 +3,7 @@ import Home from './pages/Home/home';
 export const Pages = [
 
     {
-        path: "/matheus.io",
+        path: "/portfolio",
         name: "home",
         element: <Home />,
         exact: true,
