@@ -1,51 +1,31 @@
 
-const skills = [
+export const skills = [
 
     {
         title: "Python",
-        skills: [
+        skillset: [
             "Django",
             "Flask",
             "Rest API",
             "Scrapper"
         ],
         time: "4 years",
-        expanded: false
     },
     {
         title: "PHP",
-        skills: [
+        skillset: [
+            "Rest API",
             "Laravel",
             "Scripts"
         ],
         time: "4 years",
-        expanded: false
     },
     {
         title: "Javascript",
-        skills: [
+        skillset: [
             "Node JS",
-            "React APP"
+            "React APP",
         ],
         time: "2 years",
-        expanded: false
-    },
-    {
-        title: "HTML",
-        skills: [
-            "Web Templates"
-        ],
-        time: "2 years",
-        expanded: false
-    },
-    {
-        title: "CSS",
-        skills: [
-            "Custom Website"
-        ],
-        time: "2 years",
-        expanded: false
     }
 ]
-
-export default skills
